@@ -1,5 +1,5 @@
 Summary:	X.org video driver for Sun BW2 video cards
-Summary(pl.UTF-8):   Sterownik obrazu X.org dla kart graficznych Sun BW2
+Summary(pl.UTF-8):	Sterownik obrazu X.org dla kart graficznych Sun BW2
 Name:		xorg-driver-video-sunbw2
 Version:	1.1.0
 Release:	0.1
